@@ -1,3 +1,25 @@
+<?php
+
+$num1 = @$_POST['num1'];
+$num2 = @$_POST['num2'];
+$operation = @$_POST['operation'];
+
+if (isset($num1) && isset($num2) && isset($operation)){
+    if ($operation == '+'){
+        $res = $num1 + $num2;
+    }elseif($operation == '-'){
+        $res = $num1 - $num2;
+    }elseif($operation == '*'){
+        $res = $num1 * $num2;}
+    elseif($operation == '/'){
+        $res = $num1 / $num2;
+    }
+}
+
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,6 +51,7 @@
             <button type="submit">calc</button>
         </form>
         <div class="result">
+            <?php if (isset($res)) { echo "Result: $res"; } ?>
         </div>
     </div>
 </body>

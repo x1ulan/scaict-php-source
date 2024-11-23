@@ -11,7 +11,11 @@
 │       vote.html
 ├─1123
 │       //demo in 1123
-│       //update after course
+│       calc.php
+│       comment.php
+│       data.json
+│       login.php
+│       vote.php
 │
 └─1124
         //demo in 1124
@@ -19,7 +23,7 @@
 ```
 
 slide:
-- [11/23 basic php](#)
+- [11/23 basic php](https://www.canva.com/design/DAGU3b-hEuo/8a5fly1z0KekKUuQoPDNow/view)
 - [11/24 php and sql](#)
 
 made by `@xiulan`
