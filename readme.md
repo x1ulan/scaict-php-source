@@ -18,4 +18,8 @@
         //update after course
 ```
 
+slide:
+- [11/23 basic php](#)
+- [11/24 php and sql](#)
+
 made by `@xiulan`
