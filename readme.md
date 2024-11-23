@@ -13,9 +13,9 @@
 │       //demo in 1123
 │       //update after course
 │
-├─1124
-│       //demo in 1124
-│       //update after course
+└─1124
+        //demo in 1124
+        //update after course
 ```
 
 made by `@xiulan`
