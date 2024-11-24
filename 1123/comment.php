@@ -49,7 +49,7 @@ if(isset($name) && isset($msg)){
             foreach($data as $msgs){
                 $name = htmlentities($msgs['name']);
                 $msg = htmlentities ($msgs['msg']);
-                echo "<div class='name'>$name</div><div class='message'>$msg</div>";
+                echo "<div class='message'><span class='name'>$name</span><p>$msg</p></div>";
             }
             ?>
         </div>
