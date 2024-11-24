@@ -24,6 +24,6 @@
 
 slide:
 - [11/23 basic php](https://www.canva.com/design/DAGU3b-hEuo/8a5fly1z0KekKUuQoPDNow/view)
-- [11/24 php and sql](#)
+- [11/24 php and sql](https://www.canva.com/design/DAGWa3-9TJ8/FfsmQU7cGoUke0_FxejnoQ/view)
 
 made by `@xiulan`
